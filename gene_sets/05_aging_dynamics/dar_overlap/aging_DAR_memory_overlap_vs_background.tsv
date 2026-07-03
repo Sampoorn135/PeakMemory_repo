@@ -1,0 +1,9 @@
+DAR_set	DAR_n	memory_set	memory_n	DAR_overlap_n	DAR_overlap_pct	background_overlap_n	background_overlap_pct	odds_ratio	fisher_greater_p
+AgedVsYoung_up	10830	IMQ_StrictMemory50_Single	2325	102	0.941828	284	0.71	1.33375	0.00931187
+AgedVsYoung_up	10830	IMQ_memory_AP1motif	656	35	0.323176	83	0.2075	1.57204	0.0204172
+AgedVsYoung_up	10830	SetB_AP1motif_bound	467	20	0.184672	58	0.145	1.29475	0.209816
+AgedVsYoung_up	10830	SetA_PAME	209	15	0.138504	34	0.085	1.66021	0.0821339
+AgedVsAdult_up	7161	IMQ_StrictMemory50_Single	2325	66	0.921659	284	0.71	1.30836	0.0351079
+AgedVsAdult_up	7161	IMQ_memory_AP1motif	656	10	0.139645	83	0.2075	0.70189	0.914674
+AgedVsAdult_up	7161	SetB_AP1motif_bound	467	6	0.0837872	58	0.145	0.62023	0.9374
+AgedVsAdult_up	7161	SetA_PAME	209	5	0.0698227	34	0.085	0.890305	0.726198

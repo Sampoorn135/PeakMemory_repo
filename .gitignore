@@ -1,0 +1,37 @@
+# ---- Large raw / intermediate data (NOT tracked; see docs/DATA.md to regenerate) ----
+*.h5ad
+*.bw
+*.bigWig
+*.bam
+*.bai
+*.fa
+*.fasta
+mm10/
+mm10_kept/
+
+# Large matrices
+*raw_counts_matrix.csv
+*normalized_logCPM.csv
+*.npz
+
+# GDC raw downloads (one folder per case)
+data/raw/*/
+data/raw/*.tsv
+
+# Peak BEDs that are bulky / regenerable (keep small final sets in results/)
+*.narrowPeak
+GSM*_peaks.bed.gz
+
+# HOMER output trees (regenerable; keep the summary .md/.tsv in results/)
+**/knownResults/
+**/homerResults/
+**/*.motif
+
+# macOS / Python cruft
+.DS_Store
+__pycache__/
+*.pyc
+*.app/
+.ipynb_checkpoints/
+_scratch/
+*.tmp

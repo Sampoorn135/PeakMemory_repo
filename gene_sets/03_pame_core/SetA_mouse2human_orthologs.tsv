@@ -1,0 +1,209 @@
+mouse	human	homology_type	confidence	source
+1700016G22Rik		NO_ORTHOLOG		none
+2310011J03Rik	C19orf25	ortholog_one2one	1.0	biomart
+2900040C04Rik		NO_ORTHOLOG		none
+3110021A11Rik		NO_ORTHOLOG		none
+4930562F07Rik		NO_ORTHOLOG		none
+4933400F21Rik		NO_ORTHOLOG		none
+5430421F17Rik		NO_ORTHOLOG		none
+9130024F11Rik		NO_ORTHOLOG		none
+A630001O12Rik		NO_ORTHOLOG		none
+A830009L08Rik		NO_ORTHOLOG		none
+Abcd2	ABCD2	ortholog_one2one	1.0	biomart
+Abhd2	ABHD2	ortholog_one2one	1.0	biomart
+Abhd5	ABHD5	ortholog_one2one	1.0	biomart
+Aco1	ACO1	ortholog_one2one	1.0	biomart
+Actn1	ACTN1	ortholog_one2one	1.0	biomart
+Adrb2	ADRB2	ortholog_one2one	1.0	biomart
+Afap1	AFAP1	ortholog_one2one	1.0	biomart
+Agfg1	AGFG1	ortholog_one2one	1.0	biomart
+Alox12e	ALOX12	hcop_only		hcop
+Alox12e	ALOX15	hcop_only		hcop
+Ampd3	AMPD3	ortholog_one2one	1.0	biomart
+Ank2	ANK2	ortholog_one2one	1.0	biomart
+Ankdd1a	ANKDD1A	ortholog_one2one	1.0	biomart
+Apcs	APCS	ortholog_one2one	1.0	biomart
+Arg1	ARG1	ortholog_one2one	1.0	biomart
+Arhgap18	ARHGAP18	ortholog_one2one	1.0	biomart
+Arhgef7	ARHGEF7	ortholog_one2one	1.0	biomart
+Asb7	ASB7	ortholog_one2one	1.0	biomart
+Asprv1	ASPRV1	ortholog_one2one	1.0	biomart
+Atp2b1	ATP2B1	ortholog_one2one	1.0	biomart
+Atp8b1	ATP8B1	ortholog_one2one	1.0	biomart
+Atxn10	ATXN10	ortholog_one2one	1.0	biomart
+Bmpr1b	BMPR1B	ortholog_one2one	1.0	biomart
+Brd2	BRD2	ortholog_one2one	1.0	biomart
+Cadm1	CADM1	ortholog_one2one	1.0	biomart
+Cald1	CALD1	ortholog_one2one	1.0	biomart
+Cap1	CAP1	ortholog_one2one	1.0	biomart
+Car12	CA12	ortholog_one2one	1.0	biomart
+Cbx3	CBX3	hcop_only		hcop
+Ccnl1	CCNL1	ortholog_one2one	1.0	biomart
+Cd274	CD274	ortholog_one2one	1.0	biomart
+Cemip2	CEMIP2	ortholog_one2one	1.0	biomart
+Col17a1	COL17A1	ortholog_one2one	1.0	biomart
+Col4a2	COL4A2	ortholog_one2one	1.0	biomart
+Cxcl1	CXCL1	hcop_only		hcop
+Cxcl1	CXCL2	hcop_only		hcop
+Cxcl1	CXCL3	hcop_only		hcop
+Cyb5d2	CYB5D2	ortholog_one2one	1.0	biomart
+Cyp1b1	CYP1B1	ortholog_one2one	1.0	biomart
+Dhrs2	DHRS2	ortholog_one2one	1.0	biomart
+Dis3	DIS3	ortholog_one2one	1.0	biomart
+Dnajb6	DNAJB6	ortholog_one2one	1.0	biomart
+Efna5	EFNA5	ortholog_one2one	1.0	biomart
+Eif1a	EIF1AX	hcop_only		hcop
+Eif1a	EIF1AY	hcop_only		hcop
+Eif1b	EIF1B	ortholog_one2one	1.0	biomart
+Eif4a3l1	EIF4A3	ortholog_one2many	0.0	biomart
+Eif4ebp2	EIF4EBP2	ortholog_one2one	1.0	biomart
+Emp1	EMP1	ortholog_one2one	1.0	biomart
+Erbin	ERBIN	ortholog_one2one	1.0	biomart
+Etv6	ETV6	ortholog_one2one	1.0	biomart
+Ext1	EXT1	ortholog_one2one	1.0	biomart
+Fam168a	FAM168A	ortholog_one2one	1.0	biomart
+Fam43a	FAM43A	ortholog_one2one	1.0	biomart
+Fam53b	FAM53B	ortholog_one2one	1.0	biomart
+Fbln2	FBLN2	ortholog_one2one	1.0	biomart
+Fbxw4	FBXW4	ortholog_one2one	1.0	biomart
+Fgd6	FGD6	ortholog_one2one	1.0	biomart
+Fgfr2	FGFR2	ortholog_one2one	1.0	biomart
+Frmd6	FRMD6	ortholog_one2one	1.0	biomart
+Gadd45b	GADD45B	ortholog_one2one	1.0	biomart
+Gadd45g	GADD45G	ortholog_one2one	1.0	biomart
+Gatb	GATB	ortholog_one2one	1.0	biomart
+Ggnbp1	GGNBP1	hcop_only		hcop
+Gm13861		NO_ORTHOLOG		none
+Gm17769		NO_ORTHOLOG		none
+Gm1968		NO_ORTHOLOG		none
+Gm26688	TFAP2A-AS1	hcop_only		hcop
+Gm27252		NO_ORTHOLOG		none
+Gm29733		NO_ORTHOLOG		none
+Gm47754		NO_ORTHOLOG		none
+Gm4832		NO_ORTHOLOG		none
+Gm536		NO_ORTHOLOG		none
+Gm9199		NO_ORTHOLOG		none
+Gnai3	GNAI3	ortholog_one2one	1.0	biomart
+Grhl1	GRHL1	ortholog_one2one	1.0	biomart
+H1f2	H1-2	ortholog_one2one	1.0	biomart
+Hsf2bp	HSF2BP	ortholog_one2one	1.0	biomart
+Il11	IL11	ortholog_one2one	1.0	biomart
+Itpripl2	ITPRIPL2	ortholog_one2one	1.0	biomart
+Kcnk13	KCNK13	ortholog_one2one	1.0	biomart
+Klf4	KLF4	ortholog_one2one	1.0	biomart
+Klk10	KLK10	ortholog_one2one	1.0	biomart
+Krt84	KRT84	ortholog_one2one	1.0	biomart
+L1cam	L1CAM	ortholog_one2one	1.0	biomart
+Lat2	LAT2	ortholog_one2one	1.0	biomart
+Lims1	LIMS3	ortholog_one2many	1.0	biomart
+Lims1	LIMS4	ortholog_one2many	1.0	biomart
+Lmbr1	LMBR1	ortholog_one2one	1.0	biomart
+Lmo7	LMO7	ortholog_one2one	1.0	biomart
+Lpar3	LPAR3	ortholog_one2one	1.0	biomart
+Lrrc10	LRRC10	ortholog_one2one	1.0	biomart
+Ly6f	LY6S	ortholog_one2many	0.0	biomart
+Lyrm1	LYRM1	ortholog_one2one	1.0	biomart
+Mapk1ip1l	MAPK1IP1L	ortholog_one2many	1.0	biomart
+Mapk8ip3	MAPK8IP3	ortholog_one2one	1.0	biomart
+Mapt	MAPT	ortholog_one2one	1.0	biomart
+Mical2	MICAL2	ortholog_one2one	1.0	biomart
+Mir12199		NO_ORTHOLOG		none
+Mir1231	MIR1231	hcop_only		hcop
+Mir138-2	MIR138-2	ortholog_one2one	1.0	biomart
+Mir218-2	MIR218-2	ortholog_one2one	1.0	biomart
+Mir21c		NO_ORTHOLOG		none
+Mir29b-2	MIR29B2	ortholog_one2one	1.0	biomart
+Mir3075		NO_ORTHOLOG		none
+Mir496b		NO_ORTHOLOG		none
+Mir5626		NO_ORTHOLOG		none
+Mir706		NO_ORTHOLOG		none
+Mlkl	MLKL	ortholog_one2one	1.0	biomart
+Mmp28	MMP28	ortholog_one2one	1.0	biomart
+Mnd1	MND1	ortholog_one2one	1.0	biomart
+Moxd1	MOXD1	ortholog_one2one	1.0	biomart
+Mpp7	MPP7	ortholog_one2one	1.0	biomart
+Mroh2a	MROH2A	ortholog_one2one	1.0	biomart
+Mrtfa	MRTFA	ortholog_one2one	1.0	biomart
+Msantd3	MSANTD3	ortholog_one2one	1.0	biomart
+Myo1d	MYO1D	ortholog_one2one	1.0	biomart
+Myof	MYOF	ortholog_one2one	1.0	biomart
+Mysm1	MYSM1	ortholog_one2one	1.0	biomart
+Nat9	NAT9	ortholog_one2one	1.0	biomart
+Ncoa2	NCOA2	ortholog_one2one	1.0	biomart
+Nectin1	NECTIN1	ortholog_one2one	1.0	biomart
+Nfkb2	NFKB2	ortholog_one2one	1.0	biomart
+Nrp1	NRP1	ortholog_one2one	1.0	biomart
+Ntn4	NTN4	ortholog_one2one	1.0	biomart
+Nub1	NUB1	ortholog_one2one	1.0	biomart
+Nup153	NUP153	ortholog_one2one	1.0	biomart
+Nup205	NUP205	ortholog_one2one	1.0	biomart
+P3h2	P3H2	ortholog_one2one	1.0	biomart
+Pabpc2	PABPC3	ortholog_many2many	0.0	biomart
+Pabpc2	PABPC1	ortholog_many2many	0.0	biomart
+Pard3	PARD3	ortholog_one2one	1.0	biomart
+Pask	PASK	ortholog_one2one	1.0	biomart
+Pcdh7	PCDH7	ortholog_one2one	1.0	biomart
+Pgf	PGF	ortholog_one2one	1.0	biomart
+Phactr1	PHACTR1	ortholog_one2one	1.0	biomart
+Pkn2	PKN2	ortholog_one2one	1.0	biomart
+Plekhg6	PLEKHG6	ortholog_one2one	1.0	biomart
+Plin2	PLIN2	ortholog_one2one	1.0	biomart
+Plxna1	PLXNA1	ortholog_one2one	1.0	biomart
+Polr3g	POLR3G	hcop_only		hcop
+Popdc2	POPDC2	ortholog_one2one	1.0	biomart
+Pou2af1	POU2AF1	ortholog_one2one	1.0	biomart
+Ppp1r3b	PPP1R3B	ortholog_one2one	1.0	biomart
+Prdm14	PRDM14	ortholog_one2one	1.0	biomart
+Prr7	PRR7	ortholog_one2one	1.0	biomart
+Ptpn6	PTPN6	ortholog_one2one	1.0	biomart
+Ptprg	PTPRG	ortholog_one2one	1.0	biomart
+Rab3gap2	RAB3GAP2	ortholog_one2one	1.0	biomart
+Rarb	RARB	ortholog_one2one	1.0	biomart
+Rhag	RHAG	ortholog_one2one	1.0	biomart
+Rilpl2	RILPL2	ortholog_one2one	1.0	biomart
+Rnf7	RNF7	ortholog_one2many	1.0	biomart
+Rrp1	RRP1	ortholog_one2one	1.0	biomart
+Sdr16c5	SDR16C5	ortholog_one2one	1.0	biomart
+Sem1	SEM1	ortholog_one2one	1.0	biomart
+Serpinb8	SERPINB8	ortholog_one2one	1.0	biomart
+Sgms1os1	SGMS1-AS1	hcop_only		hcop
+Sirt4	SIRT4	ortholog_one2one	1.0	biomart
+Slc17a5	SLC17A5	ortholog_one2one	1.0	biomart
+Slco2a1	SLCO2A1	ortholog_one2one	1.0	biomart
+Smim38	SMIM38	ortholog_one2one	1.0	biomart
+Smpd3	SMPD3	ortholog_one2one	1.0	biomart
+Snrk	SNRK	ortholog_one2one	1.0	biomart
+Snx29	SNX29	ortholog_one2one	1.0	biomart
+Sorbs1	SORBS1	ortholog_one2one	1.0	biomart
+Sprr3	SPRR3	ortholog_one2one	0.0	biomart
+Svil	SVIL	ortholog_one2one	1.0	biomart
+Tex44	TEX44	ortholog_one2one	0.0	biomart
+Tmcc1	TMCC1	ortholog_one2one	1.0	biomart
+Tmem132a	TMEM132A	ortholog_one2one	1.0	biomart
+Tmem94	TMEM94	ortholog_one2one	1.0	biomart
+Tns3	TNS3	ortholog_one2one	1.0	biomart
+Tpd52	TPD52	ortholog_one2one	1.0	biomart
+Trim11	TRIM11	ortholog_one2one	1.0	biomart
+Trim71	TRIM71	ortholog_one2one	1.0	biomart
+Tspan32	TSPAN32	ortholog_one2one	1.0	biomart
+Tubg2	TUBG2	ortholog_one2one	1.0	biomart
+Tulp4	TULP4	ortholog_one2one	1.0	biomart
+Uba2	UBA2	ortholog_one2one	1.0	biomart
+Ube2l3	UBE2L3	ortholog_one2one	1.0	biomart
+Ube2q1	UBE2Q1	ortholog_one2one	1.0	biomart
+Ube3d	UBE3D	hcop_only		hcop
+Uqcr10	UQCR10	ortholog_one2one	1.0	biomart
+Usp46	USP46	ortholog_one2one	1.0	biomart
+Utrn	UTRN	ortholog_one2one	1.0	biomart
+Vangl1	VANGL1	ortholog_one2one	1.0	biomart
+Vgll3	VGLL3	ortholog_one2one	1.0	biomart
+Vgll4	VGLL4	ortholog_one2one	1.0	biomart
+Vps72	VPS72	ortholog_one2one	1.0	biomart
+Wasf2	WASF2	ortholog_one2one	1.0	biomart
+Wdr37	WDR37	ortholog_one2one	1.0	biomart
+Yap1	YAP1	ortholog_one2one	1.0	biomart
+Zbed5-ps		NO_ORTHOLOG		none
+Zbtb7a	ZBTB7A	ortholog_one2one	1.0	biomart
+Zfp366	ZNF366	ortholog_one2one	1.0	biomart
+Zfp462	ZNF462	ortholog_one2one	1.0	biomart
+Znrf3	ZNRF3	ortholog_one2one	1.0	biomart

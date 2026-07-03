@@ -1,0 +1,4 @@
+source,native,name,p_value,significant,description,term_size,query_size,intersection_size,effective_domain_size,precision,recall,query,parents
+KEGG,KEGG:04520,Adherens junction,0.001034584532540481,True,Adherens junction,92,89,7,10539,0.07865168539325842,0.07608695652173914,query_1,['KEGG:00000']
+KEGG,KEGG:04517,IgSF CAM signaling,0.0036690916140004618,True,IgSF CAM signaling,300,89,11,10539,0.12359550561797752,0.03666666666666667,query_1,['KEGG:00000']
+KEGG,KEGG:04360,Axon guidance,0.012253546020317342,True,Axon guidance,181,89,8,10539,0.0898876404494382,0.04419889502762431,query_1,['KEGG:00000']

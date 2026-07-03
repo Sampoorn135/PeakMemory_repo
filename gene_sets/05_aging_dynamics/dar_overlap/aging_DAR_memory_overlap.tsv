@@ -1,0 +1,9 @@
+DAR_set	DAR_n	memory_set	memory_n	DAR_overlapping_n	DAR_overlapping_pct	memory_overlapped_n	memory_overlapped_pct	overlap_pairs	overlap_bp
+DAR_up_AgedVsYoung	10830	IMQ_StrictMemory50_Single	2325	102	0.942	101	4.344	103	29306
+DAR_up_AgedVsYoung	10830	IMQ_memory_AP1motif	656	35	0.323	34	5.183	35	11380
+DAR_up_AgedVsYoung	10830	SetB_memory_AP1motif_bound	467	20	0.185	20	4.283	20	6443
+DAR_up_AgedVsYoung	10830	SetA_PAME_AP1_H3K27ac	209	15	0.139	15	7.177	15	5246
+DAR_up_AgedVsAdult	7161	IMQ_StrictMemory50_Single	2325	66	0.922	65	2.796	66	18418
+DAR_up_AgedVsAdult	7161	IMQ_memory_AP1motif	656	10	0.140	10	1.524	10	3643
+DAR_up_AgedVsAdult	7161	SetB_memory_AP1motif_bound	467	6	0.084	6	1.285	6	2096
+DAR_up_AgedVsAdult	7161	SetA_PAME_AP1_H3K27ac	209	5	0.070	5	2.392	5	1767

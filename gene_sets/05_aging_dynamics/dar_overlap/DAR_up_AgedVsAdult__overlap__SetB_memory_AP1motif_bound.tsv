@@ -1,0 +1,7 @@
+dar_chr	dar_start	dar_end	dar_info	memory_set	mem_start	mem_end	mem_info	overlap_bp
+chr16	65818749	65819250	Vgll3;0;+	SetB_memory_AP1motif_bound	65818908	65819126	Fos,Fosl1,Fosl2,Jun,Junb,Jund	218
+chr17	40824519	40825020	Rhag;0;+	SetB_memory_AP1motif_bound	40824535	40824860	Jun	325
+chr15	99614619	99615120	Aqp6;0;+	SetB_memory_AP1motif_bound	99614608	99614948	Atf3,Fos,Fosl1,Fosl2,Jun,Junb,Jund	329
+chr13	37622343	37622844	Gm47754;0;+	SetB_memory_AP1motif_bound	37622421	37623030	Atf3,Batf,Fos,Fosl1,Fosl2,Jun,Junb,Jund	423
+chr13	81691536	81692037	Polr3g;0;+	SetB_memory_AP1motif_bound	81691687	81691987	Fos,Fosl2,Jun,Jund	300
+chr5	29687631	29688132	Dnajb6;0;+	SetB_memory_AP1motif_bound	29687620	29688683	Fos,Fosl1,Fosl2,Jun,Junb,Jund	501

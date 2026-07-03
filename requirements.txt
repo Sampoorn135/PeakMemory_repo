@@ -1,0 +1,30 @@
+# Peak Memory — Python dependencies
+# Core memory-peak pipeline is pure standard library (only numpy imported).
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+matplotlib-venn>=0.11        # 4-way Venn diagrams (gene / TF overlap figures)
+
+# Single-cell aging analysis (GSE288730 EpdSC matrix)
+anndata>=0.10
+scanpy>=1.10
+h5py>=3.10
+
+# Cancer / pre-cancer arm
+pyliftover>=0.4              # mm10 -> hg38 liftOver of PAME peaks
+scikit-learn>=1.3           # PCA / scaling (TCGA QC)
+
+# TCGA-HNSC survival
+lifelines>=0.27             # Kaplan-Meier, Cox PH, log-rank
+statsmodels>=0.14           # Benjamini-Hochberg FDR
+
+# Utilities
+tqdm>=4.65
+
+# --- External command-line tools (NOT pip-installable) ---
+# HOMER            : findMotifsGenome.pl, annotatePeaks.pl, findGO.pl  (motif + GO)
+# UCSC liftOver    : optional native binary alternative to pyliftover
+# pyBigWig         : only if you re-run H3K27ac signal extraction the conventional way;
+#                    this project ships a dependency-free pure-Python bigWig reader
+#                    (src/03_pame/extract_h3k27ac.py, src/05_cancer_precancer/bwremote.py)

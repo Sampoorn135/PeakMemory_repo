@@ -1,0 +1,4 @@
+source,native,name,p_value,significant,description,term_size,query_size,intersection_size,effective_domain_size,precision,recall,query,parents
+GO:MF,GO:0005515,protein binding,9.231735374283184e-08,True,"""Binding to a protein."" [GOC:go_curators]",9549,166,108,23512,0.6506024096385542,0.011310084825636193,query_1,['GO:0005488']
+GO:MF,GO:0005488,binding,3.853894561116857e-05,True,"""The selective, non-covalent, often stoichiometric, interaction of a molecule with one or more specific sites on another molecule."" [GOC:ceb, GOC:mah, ISBN:0198506732]",15131,166,138,23512,0.8313253012048193,0.00912034895248166,query_1,['GO:0003674']
+GO:MF,GO:0003779,actin binding,0.015584921852448261,True,"""Binding to monomeric or multimeric forms of actin, including actin filaments."" [GOC:clt]",397,166,12,23512,0.07228915662650602,0.030226700251889168,query_1,['GO:0008092']
